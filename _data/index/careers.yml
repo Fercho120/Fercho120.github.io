@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Grupo Vanguardia
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Yo trabajo en grupo vanguardia desarrollanfo...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Apr. 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Machine Learning Developer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: eFirma
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Yo formé parte del equipo de eFirma.com...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Enero 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Machine Learning Developer
     i18n: company_b_job
   icon: fa-plus-square

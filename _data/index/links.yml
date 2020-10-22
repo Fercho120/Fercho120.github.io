@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
-  first_name:
+- last_name: Fercho
+  first_name: Garcia
   desc: CEO
   website: https://www.google.com
   email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
+- last_name: Dona
+  first_name: para un refugio de perritos
   desc: Support Jalpc
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
+- last_name: Innovacción
+  first_name: Virtual
   desc: COO
   website: https://github.com
   email: coo@google.com
